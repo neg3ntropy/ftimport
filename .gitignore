@@ -1,0 +1,13 @@
+*.pyc
+*~
+*.swp
+*.egg-info
+__*__
+.ropeproject
+.mypy_cache
+.pytest_cache
+/drivers/cache
+.vscode/settings.json
+Transactions.csv
+profile
+geckodriver.log
